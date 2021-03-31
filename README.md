@@ -1,8 +1,10 @@
 # SELEKSI ARKADEMY
 ## CRUD APP
-
  This app is fullstack web development it runs at reactjs with redux on frontend, nodejs on backend and mongodb as the database management system. 
  belows are screenshots when the app runs on frontend
+ 
+backend link: https://github.com/accrossmindanduniverse/seleksi-arkademy
+ 
 
 ### SIGN IN FORM
 ![](https://i.imgur.com/xGCvGZQ.png)
