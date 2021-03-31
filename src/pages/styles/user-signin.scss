@@ -1,0 +1,35 @@
+$inputWidth: 200px;
+$marginTop: 26px;
+$fontSize: 15px;
+
+.signin-container {
+  border: 1px solid black;
+  flex-direction: column-reverse;
+  padding: 50px;
+  margin:300px;
+  height: 200px;
+  position: static;
+  background-color:rgb(255, 251, 251);
+  width: 200px;
+}
+
+.input-username, .input-password {
+  width: $inputWidth;
+  margin-top: $marginTop;
+}
+
+
+.btn-signin, .btn-signup {
+  width: 209px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: $fontSize;
+  color: whitesmoke;
+  margin-top: $marginTop;
+  background-color: black;
+  border: 0px;
+}
+
+.btn-signup {
+  margin-top: 6px;
+  font-size: 14.4px;
+}
